@@ -18,3 +18,5 @@ TRIBITS_ADD_EXECUTABLE_AND_TEST(
   )
 
 ADD_SUBDIRECTORY(rocket-simopt)
+ADD_SUBDIRECTORY(ampl-interface)
+

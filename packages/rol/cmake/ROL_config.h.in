@@ -48,3 +48,4 @@
 
 /* Define for performance timer support. */
 #cmakedefine ROL_TIMERS
+#cmakedefine HAVE_ROL_ASL

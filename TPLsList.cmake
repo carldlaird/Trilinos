@@ -159,6 +159,7 @@ TRIBITS_REPOSITORY_DEFINE_TPLS(
   SimField        "SCOREC/cmake/TPLs/"    EX
   Valgrind        "cmake/TPLs/"    EX
   QUO             "cmake/TPLs/"    EX
+  ASL		  "packages/rol/cmake/TPLs/" EX
   )
 
 # NOTES:
